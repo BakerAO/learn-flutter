@@ -18,6 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 ## Commands
 
 flutter doctor
+
 flutter config --enable-macos-desktop
+
 flutter create app_name
+
 flutter run
